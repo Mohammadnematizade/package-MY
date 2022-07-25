@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\phone-book\\public\\js"
+		},
+		{
+			"path": "..\\phone-book\\public\\css"
+		}
+	],
+	"settings": {}
+}
